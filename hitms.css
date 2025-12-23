@@ -1,0 +1,14 @@
+body{
+    background: url(./logo\ hitms.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1000%;
+    height: 130vh;
+}
+ th{
+    background-color: brown;
+
+ }
+ td{
+    background-color: blueviolet;
+ }
